@@ -1,0 +1,180 @@
+/* Estructura */
+
+* {
+    border: 0;
+    margin: 0;
+    background-color: #1b1b1b;
+}
+
+
+.container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 -1px 4px rgba(54, 18, 47, 0.15);
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+    /* background-color: #ac3ce8; */
+    
+}
+
+a {
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+}
+
+.content {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin: 12em 0;
+}
+
+.right {
+    padding: 2.5em .5em;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left {
+    width: 70%;
+    padding: 2.5em;
+}
+
+.me img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 4em 0 0 10em;
+    /* border: 1px solid red; */
+}
+
+.uil {
+    color: #850cf7;
+    font-size:2em;
+}
+
+.yo {
+    /* justify-content: space-between; */
+    margin: auto;
+    margin-bottom: 10em;
+    width: 80%;
+    display: flex;
+    /* border: 1px solid red; */
+}
+
+.me {
+    display: flex;
+    margin: -5em 0 0 12em;
+    font-weight: bold;
+    /* border: 1px solid red; */
+}
+
+.social ul {
+    list-style: none;
+    /* margin: 10em 0; */
+}
+
+.social li {
+    margin: 1.5em 0 0 0 ;
+}
+
+.title {
+    font-size: 2.75em;
+    margin-left: 4em;
+}
+
+.description {
+    font-size: 1.25em;
+    margin: 4em 0 0 5em;
+}
+
+.longer {
+    /* border: 1px solid red; */
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+.uil-user-square  {
+    font-size: 10em;
+    margin-right: 0.5em;
+}
+
+.uil-users-alt {
+    font-size: 10em;
+    margin-right: 0.5em;
+}
+
+.myself{
+    margin: 2em 0 0 0;
+} 
+
+.lider { 
+    display: flex;
+    margin: auto;
+    margin-top: 12em;
+    width: 80%;
+}
+
+.owo {
+    margin-top: 3em;
+}
+
+.titulo {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.etica {
+    display: flex;
+    margin: auto;
+    margin-top: 12em;
+    width: 80%;
+}
+
+.uil-user-plus {
+    font-size: 10em;
+    margin-right: 0.5em;
+}
+
+.uwu .descripcion {
+    margin-top: 2em;
+}
+
+#rueda {
+    max-width: 80%;
+    align-items: center;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    margin-top: 10em;
+    padding-top: 2em;
+}
+
+#rueda img {
+    width: 500px;
+    height: 450px;
+    margin: 2.5em 0;
+}
+
+#rsi {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10em;
+    padding-top: 2em;
+    max-width: 80%;
+}
+
+.fa-bath {
+    color: #850cf7;
+    font-size: 10em;
+}
+
+#des {
+    margin-top: 3em;
+}
